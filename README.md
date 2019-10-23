@@ -1,12 +1,12 @@
-# NoroffVueApp
-JavaScript Frameworks Module Assignment 2
+# Noroff Vue App
+
+JavaScript Frameworks Module Assignment 2 for Front-End Development Studies at Noroff.
 
 To run the project download the folder.
 
-Make sure you have NPM installed. If not, run:
+cd into the project folder. Run:
 "npm install"
 
-cd into the project folder. Run:
-"npm run serve"
+Run: "npm run serve"
 
 Open local host. 
